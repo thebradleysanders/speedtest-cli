@@ -52,6 +52,11 @@ or
 
     git clone https://github.com/sivel/speedtest-cli.git
     python speedtest-cli/setup.py install
+    copy speedtest-cli/speedtest.py to /usr/local/bin/speedtest.py
+    sudo chmod -x /usr/local.bin/sppedtest.py
+    sudo chmod -R 777 /usr/local/bin/
+    then run /usr/local/bin/sppedtest.py
+    
 
 Just download (Like the way it used to be)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
